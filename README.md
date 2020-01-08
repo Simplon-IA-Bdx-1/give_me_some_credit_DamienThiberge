@@ -30,9 +30,7 @@ Estimer si un usager va rembouser ou non son prêt à partir d'un dataset fourni
 
 2. Extraire le fichier .zip dans un dossier vide sur votre espace de travail.
 
-3. Dans le dossier extrait, créer le sous-dossier csv qui accueillera les fichiers du challenge Kaggle ainsi que ceux générés par les notebooks.
-
-4. Depuis votre compte kaggle, récupérez les fichiers test et train du challenge Kaggle : https://www.kaggle.com/c/GiveMeSomeCredit/data
+3. Depuis votre compte kaggle, récupérez les fichiers test et train du challenge Kaggle : https://www.kaggle.com/c/GiveMeSomeCredit/data
 <br><br>
 
 ## Liens vers les notebooks
